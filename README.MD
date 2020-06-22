@@ -16,6 +16,14 @@ Go to the 'public' folder and edit the .htaccess file - add your root directory.
 
 That should be enough to get you going.
 
+- Users can only edit or delete their own posts.
+- Edit and delete buttons only show to the post owner.
+- Passwords are encrypted and have minimum length set.
+- The app is currently set that you need to login to see posts.
+- PHP version is 7.03
+- MySQL version is 5.6
+
+
 ### Demo images:
 #### Login Page:
 ![login.png](demo_images/login.png)
