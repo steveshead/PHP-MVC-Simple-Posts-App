@@ -16,6 +16,7 @@ Go to the 'public' folder and edit the .htaccess file - add your root directory.
 
 That should be enough to get you going.
 
+#### Some information:
 - Users can only edit or delete their own posts.
 - Edit and delete buttons only show to the post owner.
 - Passwords are encrypted and have minimum length set.
